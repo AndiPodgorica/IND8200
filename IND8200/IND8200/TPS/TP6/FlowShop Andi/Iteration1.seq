@@ -1,0 +1,736 @@
+Schedule:           SPT
+  RGB:                31;26;95
+  Time:               1
+  Machine:            Trimming (M1)
+    Oper:               J6
+    Oper:               J4
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+  Machine:            Drilling (M2)
+    Oper:               J6
+    Oper:               J4
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+  Machine:            Polishing (M3)
+    Oper:               J6
+    Oper:               J4
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+  Machine:            Testing (M4)
+    Oper:               J6
+    Oper:               J4
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+
+Schedule:           SPU
+  RGB:                49;216;219
+  Time:               1
+  Machine:            Trimming (M1)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+    Oper:               J4
+  Machine:            Drilling (M2)
+    Oper:               J6
+    Oper:               J4
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+  Machine:            Polishing (M3)
+    Oper:               J6
+    Oper:               J4
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+  Machine:            Testing (M4)
+    Oper:               J6
+    Oper:               J4
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+
+Schedule:           SPV
+  RGB:                191;151;26
+  Time:               1
+  Machine:            Trimming (M1)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+    Oper:               J4
+  Machine:            Drilling (M2)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+    Oper:               J4
+  Machine:            Polishing (M3)
+    Oper:               J6
+    Oper:               J4
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+  Machine:            Testing (M4)
+    Oper:               J6
+    Oper:               J4
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+
+Schedule:           SPW
+  RGB:                2;131;50
+  Time:               1
+  Machine:            Trimming (M1)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+    Oper:               J4
+  Machine:            Drilling (M2)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+    Oper:               J4
+  Machine:            Polishing (M3)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+    Oper:               J4
+  Machine:            Testing (M4)
+    Oper:               J6
+    Oper:               J4
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+
+Schedule:           SPX
+  RGB:                211;180;172
+  Time:               1
+  Machine:            Trimming (M1)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+    Oper:               J4
+  Machine:            Drilling (M2)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+    Oper:               J4
+  Machine:            Polishing (M3)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+    Oper:               J4
+  Machine:            Testing (M4)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+    Oper:               J4
+
+Schedule:           SPY
+  RGB:                108;9;240
+  Time:               1
+  Machine:            Trimming (M1)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+    Oper:               J4
+  Machine:            Drilling (M2)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+    Oper:               J4
+  Machine:            Polishing (M3)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+    Oper:               J4
+  Machine:            Testing (M4)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+    Oper:               J4
+
+Schedule:           SPZ
+  RGB:                218;20;73
+  Time:               1
+  Machine:            Trimming (M1)
+    Oper:               J6
+    Oper:               J3
+    Oper:               J4
+    Oper:               J1
+    Oper:               J2
+    Oper:               J5
+  Machine:            Drilling (M2)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+    Oper:               J4
+  Machine:            Polishing (M3)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+    Oper:               J4
+  Machine:            Testing (M4)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+    Oper:               J4
+
+Schedule:           SPZ - 01
+  RGB:                130;96;40
+  Time:               1
+  Machine:            Trimming (M1)
+    Oper:               J6
+    Oper:               J3
+    Oper:               J4
+    Oper:               J1
+    Oper:               J2
+    Oper:               J5
+  Machine:            Drilling (M2)
+    Oper:               J6
+    Oper:               J3
+    Oper:               J4
+    Oper:               J1
+    Oper:               J2
+    Oper:               J5
+  Machine:            Polishing (M3)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+    Oper:               J4
+  Machine:            Testing (M4)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+    Oper:               J4
+
+Schedule:           SPZ - 02
+  RGB:                143;143;198
+  Time:               1
+  Machine:            Trimming (M1)
+    Oper:               J6
+    Oper:               J3
+    Oper:               J4
+    Oper:               J1
+    Oper:               J2
+    Oper:               J5
+  Machine:            Drilling (M2)
+    Oper:               J6
+    Oper:               J3
+    Oper:               J4
+    Oper:               J1
+    Oper:               J2
+    Oper:               J5
+  Machine:            Polishing (M3)
+    Oper:               J6
+    Oper:               J3
+    Oper:               J4
+    Oper:               J1
+    Oper:               J2
+    Oper:               J5
+  Machine:            Testing (M4)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+    Oper:               J4
+
+Schedule:           SPZ - 03
+  RGB:                125;239;121
+  Time:               1
+  Machine:            Trimming (M1)
+    Oper:               J6
+    Oper:               J3
+    Oper:               J4
+    Oper:               J1
+    Oper:               J2
+    Oper:               J5
+  Machine:            Drilling (M2)
+    Oper:               J6
+    Oper:               J3
+    Oper:               J4
+    Oper:               J1
+    Oper:               J2
+    Oper:               J5
+  Machine:            Polishing (M3)
+    Oper:               J6
+    Oper:               J3
+    Oper:               J4
+    Oper:               J1
+    Oper:               J2
+    Oper:               J5
+  Machine:            Testing (M4)
+    Oper:               J6
+    Oper:               J3
+    Oper:               J4
+    Oper:               J1
+    Oper:               J2
+    Oper:               J5
+
+Schedule:           SPZ - 04
+  RGB:                242;20;211
+  Time:               1
+  Machine:            Trimming (M1)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+  Machine:            Drilling (M2)
+    Oper:               J6
+    Oper:               J3
+    Oper:               J4
+    Oper:               J1
+    Oper:               J2
+    Oper:               J5
+  Machine:            Polishing (M3)
+    Oper:               J6
+    Oper:               J3
+    Oper:               J4
+    Oper:               J1
+    Oper:               J2
+    Oper:               J5
+  Machine:            Testing (M4)
+    Oper:               J6
+    Oper:               J3
+    Oper:               J4
+    Oper:               J1
+    Oper:               J2
+    Oper:               J5
+
+Schedule:           SPZ - 05
+  RGB:                247;231;111
+  Time:               1
+  Machine:            Trimming (M1)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+  Machine:            Drilling (M2)
+    Oper:               J6
+    Oper:               J3
+    Oper:               J4
+    Oper:               J1
+    Oper:               J2
+    Oper:               J5
+  Machine:            Polishing (M3)
+    Oper:               J6
+    Oper:               J3
+    Oper:               J4
+    Oper:               J1
+    Oper:               J2
+    Oper:               J5
+  Machine:            Testing (M4)
+    Oper:               J6
+    Oper:               J3
+    Oper:               J4
+    Oper:               J1
+    Oper:               J2
+    Oper:               J5
+
+Schedule:           SPZ - 06
+  RGB:                37;238;71
+  Time:               1
+  Machine:            Trimming (M1)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+  Machine:            Drilling (M2)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+  Machine:            Polishing (M3)
+    Oper:               J6
+    Oper:               J3
+    Oper:               J4
+    Oper:               J1
+    Oper:               J2
+    Oper:               J5
+  Machine:            Testing (M4)
+    Oper:               J6
+    Oper:               J3
+    Oper:               J4
+    Oper:               J1
+    Oper:               J2
+    Oper:               J5
+
+Schedule:           SPZ - 07
+  RGB:                101;241;6
+  Time:               1
+  Machine:            Trimming (M1)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+  Machine:            Drilling (M2)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+  Machine:            Polishing (M3)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+  Machine:            Testing (M4)
+    Oper:               J6
+    Oper:               J3
+    Oper:               J4
+    Oper:               J1
+    Oper:               J2
+    Oper:               J5
+
+Schedule:           SPZ - 08
+  RGB:                30;144;149
+  Time:               1
+  Machine:            Trimming (M1)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+  Machine:            Drilling (M2)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+  Machine:            Polishing (M3)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+  Machine:            Testing (M4)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+
+Schedule:           Local Search / Cmax
+  RGB:                236;50;147
+  Time:               61
+  Machine:            Trimming (M1)
+    Oper:               J1
+    Oper:               J6
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+    Oper:               J4
+  Machine:            Drilling (M2)
+    Oper:               J1
+    Oper:               J6
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+    Oper:               J4
+  Machine:            Polishing (M3)
+    Oper:               J1
+    Oper:               J6
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+    Oper:               J4
+  Machine:            Testing (M4)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+    Oper:               J4
+
+Schedule:           Local Search / Cmay
+  RGB:                125;106;131
+  Time:               61
+  Machine:            Trimming (M1)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+  Machine:            Drilling (M2)
+    Oper:               J1
+    Oper:               J6
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+    Oper:               J4
+  Machine:            Polishing (M3)
+    Oper:               J1
+    Oper:               J6
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+    Oper:               J4
+  Machine:            Testing (M4)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+    Oper:               J4
+
+Schedule:           Local Search / Cmaz
+  RGB:                124;76;233
+  Time:               61
+  Machine:            Trimming (M1)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+  Machine:            Drilling (M2)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+  Machine:            Polishing (M3)
+    Oper:               J1
+    Oper:               J6
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+    Oper:               J4
+  Machine:            Testing (M4)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+    Oper:               J4
+
+Schedule:           Local Search / Cmaz - 01
+  RGB:                9;109;248
+  Time:               61
+  Machine:            Trimming (M1)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+  Machine:            Drilling (M2)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+  Machine:            Polishing (M3)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+  Machine:            Testing (M4)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+    Oper:               J4
+
+Schedule:           Local Search / Cmaz - 02
+  RGB:                148;4;5
+  Time:               61
+  Machine:            Trimming (M1)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+  Machine:            Drilling (M2)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+  Machine:            Polishing (M3)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+  Machine:            Testing (M4)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J2
+    Oper:               J5
+    Oper:               J3
+
+Schedule:           Local Search / Cmaz - 03
+  RGB:                214;107;218
+  Time:               61
+  Machine:            Trimming (M1)
+    Oper:               J6
+    Oper:               J2
+    Oper:               J1
+    Oper:               J5
+    Oper:               J3
+    Oper:               J4
+  Machine:            Drilling (M2)
+    Oper:               J6
+    Oper:               J2
+    Oper:               J1
+    Oper:               J5
+    Oper:               J3
+    Oper:               J4
+  Machine:            Polishing (M3)
+    Oper:               J6
+    Oper:               J2
+    Oper:               J1
+    Oper:               J5
+    Oper:               J3
+    Oper:               J4
+  Machine:            Testing (M4)
+    Oper:               J6
+    Oper:               J2
+    Oper:               J1
+    Oper:               J5
+    Oper:               J3
+    Oper:               J4
+
+Schedule:           Shifting Bottleneck / sum(wT)
+  RGB:                221;130;97
+  Time:               1
+  Machine:            Trimming (M1)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+  Machine:            Drilling (M2)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+  Machine:            Polishing (M3)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+  Machine:            Testing (M4)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+
+Schedule:           Shifting Bottleneck / sum(wT) - 01
+  RGB:                167;65;121
+  Time:               1
+  Machine:            Trimming (M1)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+  Machine:            Drilling (M2)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+  Machine:            Polishing (M3)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+  Machine:            Testing (M4)
+    Oper:               J6
+    Oper:               J1
+    Oper:               J4
+    Oper:               J3
+    Oper:               J2
+    Oper:               J5
+

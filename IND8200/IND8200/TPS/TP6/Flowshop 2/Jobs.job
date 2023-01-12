@@ -1,0 +1,61 @@
+Shop:               Job
+Job:                J1
+  RGB:                247;195;219
+  Release:            0
+  Due:                0
+  Weight:             1
+  Oper:               M1;3;A
+  Oper:               M2;6;A
+  Oper:               M3;6;A
+  Oper:               M4;5;A
+
+Job:                J2
+  RGB:                46;243;1
+  Release:            0
+  Due:                0
+  Weight:             1
+  Oper:               M1;9;A
+  Oper:               M2;2;A
+  Oper:               M3;9;A
+  Oper:               M4;8;A
+
+Job:                J3
+  RGB:                32;218;227
+  Release:            0
+  Due:                0
+  Weight:             1
+  Oper:               M1;8;A
+  Oper:               M2;8;A
+  Oper:               M3;5;A
+  Oper:               M4;4;A
+
+Job:                J4
+  RGB:                135;77;212
+  Release:            0
+  Due:                0
+  Weight:             1
+  Oper:               M1;6;A
+  Oper:               M2;3;A
+  Oper:               M3;5;A
+  Oper:               M4;4;A
+
+Job:                J5
+  RGB:                60;131;253
+  Release:            0
+  Due:                0
+  Weight:             1
+  Oper:               M1;9;A
+  Oper:               M2;2;A
+  Oper:               M3;9;A
+  Oper:               M4;8;A
+
+Job:                J6
+  RGB:                243;6;203
+  Release:            0
+  Due:                0
+  Weight:             1
+  Oper:               M1;2;A
+  Oper:               M2;7;A
+  Oper:               M3;1;A
+  Oper:               M4;5;A
+

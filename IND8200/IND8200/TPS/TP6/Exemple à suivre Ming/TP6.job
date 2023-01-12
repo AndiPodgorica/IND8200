@@ -1,0 +1,81 @@
+Shop:               Job
+Job:                J001
+  RGB:                155;177;214
+  Release:            0
+  Due:                0
+  Weight:             1
+  Oper:               W001;3;A
+  Oper:               W002;0;A
+
+Job:                J002
+  RGB:                32;213;157
+  Release:            0
+  Due:                0
+  Weight:             1
+  Oper:               W001;5;A
+  Oper:               W002;4;A
+
+Job:                J003
+  RGB:                251;254;75
+  Release:            0
+  Due:                0
+  Weight:             1
+  Oper:               W001;3;A
+  Oper:               W002;7;A
+
+Job:                J004
+  RGB:                251;23;4
+  Release:            0
+  Due:                0
+  Weight:             1
+  Oper:               W002;5;A
+  Oper:               W001;0;A
+
+Job:                J005
+  RGB:                125;247;6
+  Release:            0
+  Due:                0
+  Weight:             1
+  Oper:               W002;2;A
+  Oper:               W001;4;A
+
+Job:                J006
+  RGB:                83;244;248
+  Release:            0
+  Due:                0
+  Weight:             1
+  Oper:               W002;4;A
+  Oper:               W001;4;A
+
+Job:                J007
+  RGB:                235;64;132
+  Release:            0
+  Due:                0
+  Weight:             1
+  Oper:               W001;4;A
+  Oper:               W002;0;A
+
+Job:                J008
+  RGB:                109;56;240
+  Release:            0
+  Due:                0
+  Weight:             1
+  Oper:               W001;5;A
+  Oper:               W002;5;A
+
+Job:                J009
+  RGB:                194;91;237
+  Release:            0
+  Due:                0
+  Weight:             1
+  Oper:               W002;2;A
+  Oper:               W001;0;A
+
+Job:                J010
+  RGB:                253;6;217
+  Release:            0
+  Due:                0
+  Weight:             1
+  Oper:               W002;6;A
+  Oper:               W001;3;A
+

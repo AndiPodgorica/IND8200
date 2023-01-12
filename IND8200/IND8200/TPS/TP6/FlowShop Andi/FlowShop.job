@@ -1,0 +1,61 @@
+Shop:               Job
+Job:                J1
+  RGB:                137;167;226
+  Release:            0
+  Due:                0
+  Weight:             1
+  Oper:               Trimming (M1);3;A
+  Oper:               Drilling (M2);6;A
+  Oper:               Polishing (M3);6;A
+  Oper:               Testing (M4);5;A
+
+Job:                J2
+  RGB:                220;249;83
+  Release:            0
+  Due:                0
+  Weight:             1
+  Oper:               Trimming (M1);9;A
+  Oper:               Drilling (M2);2;A
+  Oper:               Polishing (M3);9;A
+  Oper:               Testing (M4);8;A
+
+Job:                J3
+  RGB:                199;5;242
+  Release:            0
+  Due:                0
+  Weight:             1
+  Oper:               Trimming (M1);8;A
+  Oper:               Drilling (M2);8;A
+  Oper:               Polishing (M3);5;A
+  Oper:               Testing (M4);4;A
+
+Job:                J4
+  RGB:                85;226;98
+  Release:            0
+  Due:                0
+  Weight:             1
+  Oper:               Trimming (M1);6;A
+  Oper:               Drilling (M2);3;A
+  Oper:               Polishing (M3);5;A
+  Oper:               Testing (M4);4;A
+
+Job:                J5
+  RGB:                234;91;37
+  Release:            0
+  Due:                0
+  Weight:             1
+  Oper:               Trimming (M1);9;A
+  Oper:               Drilling (M2);2;A
+  Oper:               Polishing (M3);9;A
+  Oper:               Testing (M4);8;A
+
+Job:                J6
+  RGB:                17;242;223
+  Release:            0
+  Due:                0
+  Weight:             1
+  Oper:               Trimming (M1);2;A
+  Oper:               Drilling (M2);7;A
+  Oper:               Polishing (M3);1;A
+  Oper:               Testing (M4);5;A
+

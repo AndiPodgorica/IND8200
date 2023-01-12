@@ -1,0 +1,26 @@
+Schedule:           SPT
+  RGB:                72;188;59
+  Time:               1
+  Machine:            W001
+    Oper:               J001
+    Oper:               J009
+    Oper:               J007
+    Oper:               J002
+    Oper:               J004
+    Oper:               J005
+    Oper:               J003
+    Oper:               J006
+    Oper:               J008
+    Oper:               J010
+  Machine:            W002
+    Oper:               J009
+    Oper:               J004
+    Oper:               J001
+    Oper:               J005
+    Oper:               J007
+    Oper:               J002
+    Oper:               J006
+    Oper:               J003
+    Oper:               J008
+    Oper:               J010
+

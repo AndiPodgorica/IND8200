@@ -1,0 +1,3 @@
+Moitié Exam: QCM et vrai/faux
+Autre moitié: Raisonnement et exercices (Sur quantité économique, gestion de stocks, équilibrage des lignes de production, gestion de projets, 
+planiffication (pbm, temps supplémentaire, engager, sous-traiter))
